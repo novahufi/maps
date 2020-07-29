@@ -1,0 +1,9 @@
+Mas itu ntar sampean buat api nya di console google
+terus aktifkan kredensial nya 
+
+databsenya namanya googlemaps
+terus lokasi.sql tinggal import aja :) happy coding
+
+
+
+AIzaSyAr4pHr4yXl3euY1ZbmY6BaYu5sxYeFc0E
